@@ -1,3 +1,3 @@
 # Classification_ML
 Example of jupyter notebook Classification machine learning model.
-You can find here the dataset (vgsales) and the jupyter notebook (Classification.ipynb)
+You can find here the dataset (mushrooms.csv) and the jupyter notebook (Mushroom_Classification.ipynb)
